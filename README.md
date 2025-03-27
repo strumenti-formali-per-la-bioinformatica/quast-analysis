@@ -23,5 +23,5 @@ Nella sezione [`deliverables`](deliverables) sono presenti la [relazione](Delive
 Nella sezione [`files`](files), invece, sono presenti i necessari per riprodurre il caso d'uso relativo all'utilizzo del Galaxy Workflow, come presentato nella relazione. 
 
 ### Scaricare i file di sequenziamento
-A causa della loro dimensione, i due file di sequenziamento, dati in input a Galaxy, non sono forniti direttamente in questa repo, tuttavia sono disponibili per il download [qui](https://www.ebi.ac.uk/ena/browser/view/SRR941218). Scendere in fondo alla pagina, selezionare i due file (come mostrato nella seguente figura) e cliccare `Download` o, in alternativa, cliccare su `Download All`.
+A causa della loro dimensione, i due file di sequenziamento, dati in input a Galaxy, non sono forniti direttamente in questa repo, tuttavia sono disponibili per il download [qui](https://www.ebi.ac.uk/ena/browser/view/SRR941218). Scendere in fondo alla pagina, selezionare i due file (come mostrato nella seguente figura) e cliccare sul nome del file da scaricare o, in alternativa, cliccare su `Download All`.
 ![readsFilesDownload](imgs/readFiles.png)
