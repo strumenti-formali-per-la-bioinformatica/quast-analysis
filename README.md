@@ -24,4 +24,4 @@ Nella sezione [`files`](files), invece, sono presenti i necessari per riprodurre
 
 ### Scaricare i file di sequenziamento
 A causa della loro dimensione, i due file di sequenziamento, dati in input a Galaxy, non sono forniti direttamente in questa repo, tuttavia sono disponibili per il download [qui](https://www.ebi.ac.uk/ena/browser/view/SRR941218). Scendere in fondo alla pagina, selezionare i due file (come mostrato nella seguente figura) e cliccare `Download` o, in alternativa, cliccare su `Download All`.
-![readsFilesDownload](imgs/readFiles.png).
+![readsFilesDownload](imgs/readFiles.png)
